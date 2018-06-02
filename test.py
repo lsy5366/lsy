@@ -1,3 +1,2 @@
-print('fdfdsf')
 fdsfsdf
 fdfsfs
